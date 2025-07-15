@@ -25,7 +25,7 @@ import Search from './pages/Search'
 import getAllNotifications from './hooks/getAllNotifications'
 import Notifications from './pages/Notifications'
 import { setNotificationData } from './redux/userSlice'
-export const serverUrl="https://chat-app-v5vu.onrender.com"
+export const serverUrl="https://chat-app-7hv9.onrender.com"
 function App() {
    getCurrentUser()
    getSuggestedUsers()
